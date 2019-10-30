@@ -1,0 +1,89 @@
+/* TASK TITLE - BOLD AND SIZE */
+kt-task .kt-task-body {
+  font-size:13px !important;
+  font-weight: bold;
+}
+
+/* -------------------------------------- */
+@media only screen and (min-width: 800px) {
+kt-board {
+    width: 560px;
+}
+
+/* TASK TITLE - BOLD AND SIZE */
+kt-task .kt-task-body {
+  font-size:13px !important;
+  font-weight: bold;
+}
+
+/* -------------------------------------- */
+@media only screen and (min-width: 1100px) {
+kt-board {
+    width: 800px;
+}
+
+/* TASK TITLE - BOLD AND SIZE */
+kt-task .kt-task-body {
+  font-size:13px !important;
+  font-weight: bold;
+}
+
+/* TASK SIZE BETTER FOR TOUCH SCREENS */
+kt-task {
+  height:100px;
+  min-height:100px; 
+  max-height:100px;
+  width:250px;
+  min-width:250px; 
+  max-width:250px;
+  overflow:hidden;
+}
+}
+
+/* -------------------------------------- */
+@media only screen and (min-width: 1460px) {
+kt-board {
+    width: 1200px;
+}
+
+/* TASK TITLE - BOLD AND SIZE */
+kt-task .kt-task-body {
+  font-size:13px !important;
+  font-weight: bold;
+}
+
+/* TASK SIZE BETTER FOR TOUCH SCREENS */
+kt-task {
+  height:100px;
+  min-height:100px; 
+  max-height:100px;
+  width:350px;
+  min-width:350px; 
+  max-width:350px;
+  overflow:hidden;
+}
+}
+
+/* -------------------------------------- */
+@media only screen and (min-width: 1771px) {
+kt-board {
+    width: 1500px;
+}
+
+/* TASK TITLE - BOLD AND SIZE */
+kt-task .kt-task-body {
+  font-size:13px !important;
+  font-weight: bold;
+}
+
+/* TASK SIZE BETTER FOR TOUCH SCREENS */
+kt-task {
+  height:100px;
+  min-height:100px; 
+  max-height:100px;
+  width:480px;
+  min-width:480px; 
+  max-width:480px;
+  overflow:hidden;
+}
+}
